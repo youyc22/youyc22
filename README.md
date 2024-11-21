@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=youyc22&left_color=green&right_color=red)
 
 ### :bar_chart: Metrics
 
