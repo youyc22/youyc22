@@ -1,9 +1,11 @@
 ## Hi there 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youyc22&show_icons=true&theme=dark&title_color=87CEEB&text_color=7B68EE)](https://github.com/anuraghazra/github-readme-stats)
+### :bar_chart: Metrics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youyc22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Timothy Liu's Github stats](https://github-readme-stats-timothy-liuxf.vercel.app/api?username=youyc22&show_icons=true&count_private=true&theme=tokyonight&border_color=000000&title_color=0366D6&bg_color=45,0D1117,0D1117,7223DA)
+
+![Timothy Liu's Top Langs](https://github-readme-stats-timothy-liuxf.vercel.app/api/top-langs/?username=youyc22&langs_count=10&layout=compact&count_private=true&theme=tokyonight&border_color=000000&title_color=0366D6&bg_color=45,0D1117,0D1117,7223DA)
 
 
 ### Languages
