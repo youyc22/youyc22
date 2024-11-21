@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=youyc22&left_color=green&right_color=red)
+![visitors](https://komarev.com/ghpvc/?username=youyc22)
 
 ### :bar_chart: Metrics
 
