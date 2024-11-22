@@ -1,10 +1,8 @@
 ## Hi there 👋
+![visitors](https://komarev.com/ghpvc/?username=youyc22)
 - 🌱 I’m Yichen You
 - 🔭 I’m currently working on Efficient Deep Learning
 - 📫 How to reach me: yiyouyc22yyc@gmail.com
-
-![visitors](https://komarev.com/ghpvc/?username=youyc22)
-
 ### :bar_chart: Metrics
 
 ![Yichen You's Github stats](https://github-readme-stats.vercel.app/api?username=youyc22&show_icons=true&count_private=true&theme=tokyonight&border_color=000000&title_color=0366D6&bg_color=45,0D1117,0D1117,7223DA)
