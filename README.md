@@ -2,7 +2,7 @@
 ![visitors](https://komarev.com/ghpvc/?username=youyc22)
 - 🌱 I’m Yichen You
 - 🔭 I’m currently working on Efficient Deep Learning
-- 💻 I'm the deputy director of the Software Department of THUEE, responsible for the front-end of [eesast.com](eesast.com).
+- 💻 I'm the deputy director of the Software Department of THUEE, responsible for the front-end of [eesast.com](https://eesast.com/).
 - 📫 How to reach me: yiyouyc22yyc@gmail.com
 ### :bar_chart: Metrics
 
