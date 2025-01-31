@@ -1,7 +1,7 @@
 ## Hi here 👋
 ![visitors](https://komarev.com/ghpvc/?username=youyc22)
 - 🌱 I’m Yichen You
-- 🔭 I’m currently working on Efficient Deep Learning
+- 🔭 I’m currently working on Efficient Deep Learning and Reasoning
 - 💻 I'm a member of the Software Department of THUEE, responsible for leading the front-end of [eesast.com](https://eesast.com/).
 - 📫 How to reach me: yi2100237651@outlook.com
 <!--### :bar_chart: Metrics!-->
