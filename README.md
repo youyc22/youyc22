@@ -1,9 +1,10 @@
 ## Hi here 👋
 ![visitors](https://komarev.com/ghpvc/?username=youyc22)
 - 🌱 I’m Yichen You, an undergraduate student at Tsinghua University.
-- 🔭 I’m currently working on Efficient Deep Learning and Reasoning
-<!--- 💻 I'm a member of the Software Department of THUEE, responsible for leading the front-end of eesast.com.-->
+- 🔭 I’m currently working on Efficient Deep Learning and Reasoning.
 - 📫 How to reach me: yi2100237651@outlook.com
+<!--- 💻 I'm a member of the Software Department of THUEE, responsible for leading the front-end of eesast.com.-->
+
 <!--### :bar_chart: Metrics!-->
 
 ![Yichen You's Github stats](https://github-readme-stats.vercel.app/api?username=youyc22&show_icons=true&count_private=true&theme=tokyonight&border_color=000000&title_color=0366D6&bg_color=45,0D1117,0D1117,7223DA)
