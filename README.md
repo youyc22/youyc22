@@ -2,7 +2,7 @@
 ![visitors](https://komarev.com/ghpvc/?username=youyc22)
 - 🌱 I’m Yichen You, an undergraduate student at Tsinghua University.
 - 🔭 I’m currently working on Efficient Deep Learning and Reasoning
-- 💻 I'm a member of the Software Department of THUEE, responsible for leading the front-end of eesast.com.
+<!--- 💻 I'm a member of the Software Department of THUEE, responsible for leading the front-end of eesast.com.-->
 - 📫 How to reach me: yi2100237651@outlook.com
 <!--### :bar_chart: Metrics!-->
 
