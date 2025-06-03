@@ -3,7 +3,7 @@
 - 🌱 I’m Yichen You, an undergraduate student at Tsinghua University.
 - 🔭 I’m interested in Efficient DL and Reasoning.
 - 📫 How to reach me: yi2100237651[AT]outlook.com
-- 🌐 My homepage: [youyc22.github.io](https://youyc22.github.io)
+- 🌐 Homepage: [youyc22.github.io](https://youyc22.github.io)
 - 🎓 Google scholar: [Yichen You](https://scholar.google.com/citations?user=Hzg5gXYAAAAJ)
 <!--- 💻 I'm a member of the Software Department of THUEE, responsible for leading the front-end of eesast.com.-->
 
