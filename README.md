@@ -1,9 +1,9 @@
 ## Hi here 👋
 <!--![visitors](https://komarev.com/ghpvc/?username=youyc22)-->
-- 🌱 I’m Yichen You, an undergraduate student at Tsinghua University.
+- 🌱 I’m Yichen You(尤忆晨), an undergraduate student at Tsinghua University.
 - 🔭 I’m interested in Efficient DL and Reasoning.
 - 📫 Email: yi2100237651[AT]outlook.com
-- 🌐 Homepage: [youyc22.github.io](https://youyc22.github.io)
+- 🌐 Homepage: [youyc22.com](https://youyc22.com)
 <!-- - 🎓 Google scholar: [Yichen You](https://scholar.google.com/citations?user=Hzg5gXYAAAAJ) -->
 <!--- 💻 I'm a member of the Software Department of THUEE, responsible for leading the front-end of eesast.com.-->
 
