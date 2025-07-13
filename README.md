@@ -1,6 +1,6 @@
 ## Hi here 👋
 <!--![visitors](https://komarev.com/ghpvc/?username=youyc22)-->
-- 🌱 I’m Yichen You(尤忆晨), an undergraduate student at Tsinghua University.
+- 🌱 I’m Yichen You, an undergraduate student at Tsinghua University.
 - 🔭 I’m interested in Efficient DL and Reasoning.
 - 📫 Email: yi2100237651[AT]outlook.com
 - 🌐 Homepage: [youyc22.com](https://youyc22.com)
