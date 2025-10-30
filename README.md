@@ -2,7 +2,7 @@
 <!--![visitors](https://komarev.com/ghpvc/?username=youyc22)-->
 - 🌱 I’m Yichen You, an undergraduate student at Tsinghua University.
 - 🔭 I’m interested in Efficient DL and Reasoning.
-- 📫 Email: yi2100237651[AT]outlook.com
+- 📫 Email: yi2100237651[AT]outlook.com, yiyouyc22yyc[AT]gmail.com
 - <img src="https://img.icons8.com/color/16/000000/weixing.png" alt="WeChat" width="16" height="16"/> WeChat: yycyilushunfeng
 - <img src="https://img.icons8.com/color/16/000000/qq.png" alt="QQ" width="16" height="16"/> QQ: 2100237651
 <!-- - 🌐 Homepage: [youyc22.com](https://youyc22.com) -->
