@@ -3,7 +3,7 @@
 - 🌱 I’m Yichen You, an undergraduate student at Tsinghua University.
 - 🔭 I’m interested in Efficient DL and Reasoning.
 - 📫 Email: yi2100237651[AT]outlook.com, yiyouyc22yyc[AT]gmail.com
-- <img src="https://img.icons8.com/color/16/000000/weixing.png" alt="WeChat" width="16" height="16"/> WeChat: yycyilushunfeng
+- 😊 WeChat: yycyilushunfeng
 <!-- - 🌐 Homepage: [youyc22.com](https://youyc22.com) -->
 <!-- - 🎓 Google scholar: [Yichen You](https://scholar.google.com/citations?user=Hzg5gXYAAAAJ) -->
 <!--- 💻 I'm a member of the Software Department of THUEE, responsible for leading the front-end of eesast.com.-->
