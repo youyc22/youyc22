@@ -1,8 +1,8 @@
 ## Hi here 👋 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=youyc22.youyc22">
 <!--![visitors](https://komarev.com/ghpvc/?username=youyc22)-->
-- 🌱 I’m Yichen You, an undergraduate student at Tsinghua University.
-- 🔭 I’m interested in Efficient DL and Reasoning.
-- 📫 Email: yi2100237651[AT]outlook.com, yiyouyc22yyc[AT]gmail.com
+- 🌱 I’m Yichen You, an incoming Ph.D. at Tsinghua University.
+- 🔭 I’m interested in Efficient DL, Long-horizon agents and Adaptive computation.
+- 📫 Email: yi2100237651[AT]outlook.com
 - 😊 WeChat: yycyilushunfeng
 <!-- - 🌐 Homepage: [youyc22.com](https://youyc22.com) -->
 <!-- - 🎓 Google scholar: [Yichen You](https://scholar.google.com/citations?user=Hzg5gXYAAAAJ) -->
