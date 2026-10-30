@@ -1,6 +1,6 @@
 ## Hi here 👋 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=youyc22.youyc22">
 <!--![visitors](https://komarev.com/ghpvc/?username=youyc22)-->
-- 🌱 I’m Yichen You, an incoming Ph.D. at Tsinghua University.
+- 🌱 I’m Yichen You, a first-year Ph.D. at Tsinghua University.
 - 🔭 I’m interested in Efficient DL, Long-horizon agents and Adaptive computation.
 - 📫 Email: yi2100237651[AT]outlook.com
 - 😊 WeChat: yycyilushunfeng
